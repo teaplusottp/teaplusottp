@@ -9,7 +9,6 @@
 
 ## 🎓 Education  
 - **Ho Chi Minh City University of Science (HCMUS)** — BSc in Artificial Intelligence *(Sep 2022 – Expected 2026)*  
-- GPA: **3.4/4.0**  
 - Relevant courses: AI Fundamentals, NLP, CV, ML, Algorithms  
 
 ---

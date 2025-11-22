@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pham Ngoc Hoa  
 
-**AI Engineer / R&D Engineer**  
+**AI Engineer**  
 [![GitHub](https://img.shields.io/badge/GitHub-teaplusottp-black?logo=github)](https://github.com/teaplusottp) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoa%20Pham-blue?logo=linkedin)](https://www.linkedin.com/in/hoa-pham-9ab707375/) 
 [![Email](https://img.shields.io/badge/Email-ngochoatbcm%40gmail.com-red?logo=gmail)](mailto:ngochoatbcm@gmail.com)  
@@ -24,18 +24,8 @@
 ## 🚀 Projects
 - [**AI Challenge Project**](https://github.com/Phat0403/NIDIM) — Video retrieval system using OCR + Elasticsearch  
 - [**Chatbot with RAG**](https://github.com/Neil-275/no_direct_sol) — Conversational AI with FAISS + LangChain  
-- [**MinerRanger – Process Mining System**](https://github.com/teaplusottp/MinerRanger) — Multi-agent system with LLMs  
-
 ---
 
-## 📜 Certificates
-- [Coursera Specializations](https://github.com/teaplusottp/Courses):  
-  - Deep Learning Specialization (4 courses)  
-  - Supervised Machine Learning  
-  - Advanced Learning Algorithms  
-- VSTEP B1 English Certificate (CEFR B1 equivalent, 2025)  
-
----
 
 ## 📊 GitHub Stats
 ![Hoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teaplusottp&show_icons=true&theme=radical)  
